@@ -1,0 +1,13 @@
+% to run: c; abc2ly test.abc ; lilypond test.ly ; open test.pdf
+
+T:My sweet again title
+C:Me
+M:6/8
+L:1/8
+K:G
+V:3 clef=bass
+
+[V:2] ["Am7"^G_B]dB AcA | GAG D3 | BdB AcA | GAG D3 |]
+[V:3] (2 D3 D3 | D6 | D3 D3 | D6 |]
+
+W: These are the words to my song.

@@ -1,0 +1,32 @@
+% to run: c; abc2ly scales.abc ; lilypond scales.ly ; o scales.pdf
+
+T:Scales for Singing Practice
+C:Stephen Mann
+L:1/8
+K:C
+
+"C"[C2 E2 G2 ]  C D E D C2 |
+"Db"[_D2 F2 _A2 ] _D _E F _E _D2 |
+"D"[D2 ^F2 A2 ] D E ^F E D2 |
+"Eb"[_E2 G2 _B2 ] _E F G F _E2 |
+"E"[E2 ^G2 B2 ] E ^F ^G ^F E2 |
+"F"[F2 A2 c2 ] F G A G F2 |
+"Gb"[_G2 _B2 _d2 ] _G _A _B _A _G2 |
+"G"[G2 B2 d2 ] G A B A G2 |
+"Ab"[_A2 c2 _e2 ] _A _B c _B _A2 |
+"A"[A2 ^c2 e2 ] A B ^c B A2 |
+"Bb"[_B2 d2 f2 ] _B c d c _B2 |
+"B"[B2 ^d2 ^f2 ] B ^c ^d ^c B2 ||
+
+"C"[C2 E2 G2 ] C D E F G F E D C2 |
+"Db"[_D2 F2 _A2 ] _D _E F _G _A _G F _E _D2 |
+"D"[D2 ^F2 A2 ] D E ^F G A G ^F E D2 |
+"Eb"[_E2 G2 _B2 ] _E F G _A _B _A G F _E2 |
+"E"[E2 ^G2 B2 ] E ^F ^G A B A ^G ^F E2 |
+"F"[F2 A2 c2 ] F G A _B c _B A G F2 |
+"Gb"[_G2 _B2 _d2 ] _G _A _B _c _d _c _B _A _G2 |
+"G"[G2 B2 d2 ] G A B c d c B A G2 |
+"Ab"[_A2 c2 _e2 ] _A _B c _d _e _d c _B _A2 |
+"A"[A2 ^c2 e2 ] A B ^c d e d ^c B A2 |
+"Bb"[_B2 d2 f2 ] _B c d _e f _e d c _B2 |
+"B"[B2 ^d2 ^f2 ] B ^c ^d e ^f e ^d ^c B2 |]
